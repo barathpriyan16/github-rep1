@@ -1,0 +1,10 @@
+date,city,pm25
+2023-01-01,Delhi,190
+2023-01-02,Delhi,185
+2023-01-01,Mumbai,75
+2023-01-02,Mumbai,85
+2023-01-01,Bangalore,45
+2023-01-02,Bangalore,55
+2023-01-03,Delhi,160
+2023-01-03,Mumbai,65
+2023-01-03,Bangalore,50
